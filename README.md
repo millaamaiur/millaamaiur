@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Amaiur 👋
 
-<!--
-**millaamaiur/millaamaiur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year student of the double degree in **Computer Engineering + Data Science & AI** at Universidad de Deusto (Donostia).
+I like building small, useful tools and turning data into something people can actually use.
 
-Here are some ideas to get you started:
+### 🔧 Things I've built
+- **[Bera Bera match tracker](https://github.com/millaamaiur/berabera-senior-stats)**: React + TypeScript web app for tracking handball matches live, covering players, actions (shots, turnovers, assists, cards, 2-minute suspensions), an event timeline and substitutions
+- **[Advanced Statistics project](https://github.com/millaamaiur/advanced-statistics-project)**: group statistical analysis in R
+- **[sudoku](https://github.com/millaamaiur/sudoku)**: Sudoku game in Java built with OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Stack
+Python · R · Java · TypeScript · C · C++ · SQL · React
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/amaiurmilla/) · amaiurmilla@gmail.com
