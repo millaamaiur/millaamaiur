@@ -9,7 +9,7 @@ I like building small, useful tools and turning data into something people can a
 - **[sudoku](https://github.com/millaamaiur/sudoku)**: Sudoku game in Java built with OOP
 
 ### 🧰 Stack
-Python · R · Java · TypeScript · C · C++ · SQL · React
+Python · R · Java · C · C++ · SQL
 
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/amaiurmilla/) · amaiurmilla@gmail.com
